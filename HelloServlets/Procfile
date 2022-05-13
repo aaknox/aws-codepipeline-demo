@@ -1,0 +1,1 @@
+web: mvn package && sudo systemctl tomcat start
